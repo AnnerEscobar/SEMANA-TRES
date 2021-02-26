@@ -1,0 +1,13 @@
+C:\Users\Anner\Desktop\Universidad Mariano Galvez\Tercer Semestre\Programacion 1\Ejercicio 5-5 pagina 110\Ejercicio 5-6 pagina 110\bin\Debug\netcoreapp3.1\Ejercicio 5-6 pagina 110.exe
+C:\Users\Anner\Desktop\Universidad Mariano Galvez\Tercer Semestre\Programacion 1\Ejercicio 5-5 pagina 110\Ejercicio 5-6 pagina 110\bin\Debug\netcoreapp3.1\Ejercicio 5-6 pagina 110.deps.json
+C:\Users\Anner\Desktop\Universidad Mariano Galvez\Tercer Semestre\Programacion 1\Ejercicio 5-5 pagina 110\Ejercicio 5-6 pagina 110\bin\Debug\netcoreapp3.1\Ejercicio 5-6 pagina 110.runtimeconfig.json
+C:\Users\Anner\Desktop\Universidad Mariano Galvez\Tercer Semestre\Programacion 1\Ejercicio 5-5 pagina 110\Ejercicio 5-6 pagina 110\bin\Debug\netcoreapp3.1\Ejercicio 5-6 pagina 110.runtimeconfig.dev.json
+C:\Users\Anner\Desktop\Universidad Mariano Galvez\Tercer Semestre\Programacion 1\Ejercicio 5-5 pagina 110\Ejercicio 5-6 pagina 110\bin\Debug\netcoreapp3.1\Ejercicio 5-6 pagina 110.dll
+C:\Users\Anner\Desktop\Universidad Mariano Galvez\Tercer Semestre\Programacion 1\Ejercicio 5-5 pagina 110\Ejercicio 5-6 pagina 110\bin\Debug\netcoreapp3.1\Ejercicio 5-6 pagina 110.pdb
+C:\Users\Anner\Desktop\Universidad Mariano Galvez\Tercer Semestre\Programacion 1\Ejercicio 5-5 pagina 110\Ejercicio 5-6 pagina 110\obj\Debug\netcoreapp3.1\Ejercicio 5-6 pagina 110.csprojAssemblyReference.cache
+C:\Users\Anner\Desktop\Universidad Mariano Galvez\Tercer Semestre\Programacion 1\Ejercicio 5-5 pagina 110\Ejercicio 5-6 pagina 110\obj\Debug\netcoreapp3.1\Ejercicio 5-6 pagina 110.AssemblyInfoInputs.cache
+C:\Users\Anner\Desktop\Universidad Mariano Galvez\Tercer Semestre\Programacion 1\Ejercicio 5-5 pagina 110\Ejercicio 5-6 pagina 110\obj\Debug\netcoreapp3.1\Ejercicio 5-6 pagina 110.AssemblyInfo.cs
+C:\Users\Anner\Desktop\Universidad Mariano Galvez\Tercer Semestre\Programacion 1\Ejercicio 5-5 pagina 110\Ejercicio 5-6 pagina 110\obj\Debug\netcoreapp3.1\Ejercicio 5-6 pagina 110.csproj.CoreCompileInputs.cache
+C:\Users\Anner\Desktop\Universidad Mariano Galvez\Tercer Semestre\Programacion 1\Ejercicio 5-5 pagina 110\Ejercicio 5-6 pagina 110\obj\Debug\netcoreapp3.1\Ejercicio 5-6 pagina 110.dll
+C:\Users\Anner\Desktop\Universidad Mariano Galvez\Tercer Semestre\Programacion 1\Ejercicio 5-5 pagina 110\Ejercicio 5-6 pagina 110\obj\Debug\netcoreapp3.1\Ejercicio 5-6 pagina 110.pdb
+C:\Users\Anner\Desktop\Universidad Mariano Galvez\Tercer Semestre\Programacion 1\Ejercicio 5-5 pagina 110\Ejercicio 5-6 pagina 110\obj\Debug\netcoreapp3.1\Ejercicio 5-6 pagina 110.genruntimeconfig.cache

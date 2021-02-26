@@ -1,0 +1,13 @@
+C:\Users\Anner\Desktop\Universidad Mariano Galvez\Tercer Semestre\Programacion 1\Ejercicio 5-5 pagina 110\Tercera semana\bin\Debug\netcoreapp3.1\Tercera semana.exe
+C:\Users\Anner\Desktop\Universidad Mariano Galvez\Tercer Semestre\Programacion 1\Ejercicio 5-5 pagina 110\Tercera semana\bin\Debug\netcoreapp3.1\Tercera semana.deps.json
+C:\Users\Anner\Desktop\Universidad Mariano Galvez\Tercer Semestre\Programacion 1\Ejercicio 5-5 pagina 110\Tercera semana\bin\Debug\netcoreapp3.1\Tercera semana.runtimeconfig.json
+C:\Users\Anner\Desktop\Universidad Mariano Galvez\Tercer Semestre\Programacion 1\Ejercicio 5-5 pagina 110\Tercera semana\bin\Debug\netcoreapp3.1\Tercera semana.runtimeconfig.dev.json
+C:\Users\Anner\Desktop\Universidad Mariano Galvez\Tercer Semestre\Programacion 1\Ejercicio 5-5 pagina 110\Tercera semana\bin\Debug\netcoreapp3.1\Tercera semana.dll
+C:\Users\Anner\Desktop\Universidad Mariano Galvez\Tercer Semestre\Programacion 1\Ejercicio 5-5 pagina 110\Tercera semana\bin\Debug\netcoreapp3.1\Tercera semana.pdb
+C:\Users\Anner\Desktop\Universidad Mariano Galvez\Tercer Semestre\Programacion 1\Ejercicio 5-5 pagina 110\Tercera semana\obj\Debug\netcoreapp3.1\Tercera semana.csprojAssemblyReference.cache
+C:\Users\Anner\Desktop\Universidad Mariano Galvez\Tercer Semestre\Programacion 1\Ejercicio 5-5 pagina 110\Tercera semana\obj\Debug\netcoreapp3.1\Tercera semana.AssemblyInfoInputs.cache
+C:\Users\Anner\Desktop\Universidad Mariano Galvez\Tercer Semestre\Programacion 1\Ejercicio 5-5 pagina 110\Tercera semana\obj\Debug\netcoreapp3.1\Tercera semana.AssemblyInfo.cs
+C:\Users\Anner\Desktop\Universidad Mariano Galvez\Tercer Semestre\Programacion 1\Ejercicio 5-5 pagina 110\Tercera semana\obj\Debug\netcoreapp3.1\Tercera semana.csproj.CoreCompileInputs.cache
+C:\Users\Anner\Desktop\Universidad Mariano Galvez\Tercer Semestre\Programacion 1\Ejercicio 5-5 pagina 110\Tercera semana\obj\Debug\netcoreapp3.1\Tercera semana.dll
+C:\Users\Anner\Desktop\Universidad Mariano Galvez\Tercer Semestre\Programacion 1\Ejercicio 5-5 pagina 110\Tercera semana\obj\Debug\netcoreapp3.1\Tercera semana.pdb
+C:\Users\Anner\Desktop\Universidad Mariano Galvez\Tercer Semestre\Programacion 1\Ejercicio 5-5 pagina 110\Tercera semana\obj\Debug\netcoreapp3.1\Tercera semana.genruntimeconfig.cache
