@@ -1,0 +1,4 @@
+C:\Users\Anner\Desktop\Universidad Mariano Galvez\Tercer Semestre\Programacion 1\Tercera semana\Ejercicio 7-3 pagina 146\obj\Debug\netcoreapp3.1\Ejercicio 7-3 pagina 146.csprojAssemblyReference.cache
+C:\Users\Anner\Desktop\Universidad Mariano Galvez\Tercer Semestre\Programacion 1\Tercera semana\Ejercicio 7-3 pagina 146\obj\Debug\netcoreapp3.1\Ejercicio 7-3 pagina 146.AssemblyInfoInputs.cache
+C:\Users\Anner\Desktop\Universidad Mariano Galvez\Tercer Semestre\Programacion 1\Tercera semana\Ejercicio 7-3 pagina 146\obj\Debug\netcoreapp3.1\Ejercicio 7-3 pagina 146.AssemblyInfo.cs
+C:\Users\Anner\Desktop\Universidad Mariano Galvez\Tercer Semestre\Programacion 1\Tercera semana\Ejercicio 7-3 pagina 146\obj\Debug\netcoreapp3.1\Ejercicio 7-3 pagina 146.csproj.CoreCompileInputs.cache
